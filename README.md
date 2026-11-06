@@ -1,2 +1,2 @@
-# info2180-lab5
-Info2180-Lab5
+# INFO2180 Lab 5
+This is Lab 5 for Jessica Seville on PHP and MySQL.
